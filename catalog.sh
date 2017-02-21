@@ -1,3 +1,5 @@
+#Create catalog.sh first in the terminal with : sudo nano /home/pi/catalog.sh and then type the following
+
 #!/bin/bash
 
 #Disable DPMS features
