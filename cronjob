@@ -1,6 +1,6 @@
-sudo crontab -e
-Go to the bottom of the page
-Write out the following:
+#sudo crontab -e
+#Go to the bottom of the page
+#Insert the following:
 
 #The monitor is shut off at 8:15pm and awoken when the Pi restarts itself at 8:45 am. These times are adjustable to your libraries preference
 
