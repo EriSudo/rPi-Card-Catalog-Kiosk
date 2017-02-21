@@ -8,6 +8,9 @@ Pis are also run on Free Open Source Software (FOSS) which is something that pub
 What this configuration of raspberry pi offers:
 
 1) Boot to Kiosk mode with the Chromium browser to the catalog of your choice
+
 2) If the browser is closed for whatever reason it is immediately started again
+
 3) After X minutes of inactivity the browser is automatically closed and restarted, deleting all history, cookies, etc. to ensure patron privacy
+
 4) Restart the Pi at XX:XX time to ensure everything is as it should be
