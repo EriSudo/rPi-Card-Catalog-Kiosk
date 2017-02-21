@@ -16,3 +16,9 @@ What this configuration of raspberry pi offers:
 4) Shut down the monitor at XX:XX time (Usually at library close)
 
 5) Restart the Pi at XX:XX time allowing the monitor to turn back on automatically (Usually 15-30 minutes before library open)
+
+*Required software // required know-how*
+Configure Raspberry Pi to Raspbian
+Set-up wireless if not running through ethernet
+In terminal run : sudo apt-get install x11-xserver-utils xinit icedtea-7-plugin numlockx xprintidle -y
+  -This gives you all required programs needed
