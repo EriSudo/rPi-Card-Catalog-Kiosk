@@ -1,3 +1,5 @@
+#Create inactivity.sh first in the terminal with : sudo nano /home/pi/inactivity.sh and then insert the following
+
 #!bin/bash
 
 #Time out in milliseconds - The initial intiger in parenthesis, in this case 3, is how many minutes before inactivity
