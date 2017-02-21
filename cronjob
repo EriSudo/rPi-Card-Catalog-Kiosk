@@ -1,0 +1,8 @@
+sudo crontab -e
+Go to the bottom of the page
+Write out the following:
+
+#The monitor is shut off at 8:15pm and awoken when the Pi restarts itself at 8:45 am. These times are adjustable to your libraries preference
+
+15 20 * * * /home/pi/monitoroff.sh
+45 8 * * * /sbin/shutdown -r now
