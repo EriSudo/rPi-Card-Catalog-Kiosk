@@ -1,0 +1,4 @@
+#Navigate to .bashrc : sudo nano /home/pi/.bashrc
+#Insert at the very end of the file so that catalog.sh runs on startup:
+
+./home/pi/catalog.sh
