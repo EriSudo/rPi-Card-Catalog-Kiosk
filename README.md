@@ -13,4 +13,6 @@ What this configuration of raspberry pi offers:
 
 3) After X minutes of inactivity the browser is automatically closed and restarted, deleting all history, cookies, etc. to ensure patron privacy
 
-4) Restart the Pi at XX:XX time to ensure everything is as it should be
+4) Shut down the monitor at XX:XX time (Usually at library close)
+
+5) Restart the Pi at XX:XX time allowing the monitor to turn back on automatically (Usually 15-30 minutes before library open)
